@@ -2,4 +2,3 @@ numpy
 pickle5
 pandas
 streamlit 
-mysql-connector-python
